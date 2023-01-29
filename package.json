@@ -1,0 +1,20 @@
+{
+  "name": "curso-scopes-y-closures",
+  "version": "1.0.0",
+  "description": "Curso de closures y scopes de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudioMallea/curso-scopes-y-closures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudioMallea/curso-scopes-y-closures/issues"
+  },
+  "homepage": "https://github.com/ClaudioMallea/curso-scopes-y-closures#readme"
+}
